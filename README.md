@@ -1,10 +1,8 @@
 # Notepad++ Powershell Tools
----
 
 This is a collection of replacement configuration files, plugins and other files to enchance Notepad++ for Powershell development.
 
 ## Current Files
----
 
 ### Powershell AutoComplete
 
