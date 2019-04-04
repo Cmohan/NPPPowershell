@@ -7,6 +7,21 @@
             <File name="ConfigurationFiles\langs.xml" />
             <File name="ConfigurationFiles\stylers.xml" />
         </Folder>
+        <Folder name="Plugins">
+            <Folder name="RunMe_1v40">
+                <Folder name="32bit">
+                    <File name="Plugins\RunMe_1v40\32bit\RunMe.dll" />
+                </Folder>
+                <Folder name="64bit">
+                    <File name="Plugins\RunMe_1v40\64bit\RunMe.dll" />
+                </Folder>
+                <File name="Plugins\RunMe_1v40\install.txt" />
+                <File name="Plugins\RunMe_1v40\license.txt" />
+            </Folder>
+        </Folder>
+        <File name=".gitattributes" />
+        <File name="LICENSE" />
         <File name="NPPPowershell.workspace" />
+        <File name="README.md" />
     </Project>
 </NotepadPlus>
