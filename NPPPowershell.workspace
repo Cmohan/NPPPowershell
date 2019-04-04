@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Project name="NPPPowershell">
+        <Folder name="AutoComplete">
+            <File name="AutoComplete\powershell.xml" />
+        </Folder>
+        <Folder name="ConfigurationFiles">
+            <File name="ConfigurationFiles\langs.xml" />
+            <File name="ConfigurationFiles\stylers.xml" />
+        </Folder>
+        <File name="NPPPowershell.workspace" />
+    </Project>
+</NotepadPlus>
